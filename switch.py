@@ -45,6 +45,7 @@ def _watcher():
 	print("_watcher")
 	pass
 
+
 def __test():
 	print(table)
 	addRule('192.168.0.1', 'BD-08-A6-B4-9C-79', 8080)
@@ -54,8 +55,6 @@ def __test():
 	rmRule('192.168.0.1', 'BD-08-A6-B4-9C-79', 8080)
 	print(table)
 	run()
-
-
 
 if __name__ == "__main__":
 	__test()

@@ -4,5 +4,5 @@
 # virtual env
 .virenv/
 
-test*
+test/
 __pycache__
