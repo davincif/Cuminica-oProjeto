@@ -1,0 +1,8 @@
+# vscode
+.vscode
+
+# virtual env
+.virenv/
+
+test*
+__pycache__
